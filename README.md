@@ -2,7 +2,7 @@
 A very low level Microsoft Paint clone made with PyGame  
 
 ## Requirements: 
-1. PyGame installed 
+1. PyGame installed (run commands in command line) 
 ```
 pip install pygame
 ```
