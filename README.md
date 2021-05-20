@@ -2,7 +2,8 @@
 A very low level Microsoft Paint clone made with PyGame  
 
 ## Requirements: 
-1. PyGame installed (run commands in command line) 
+(run commands in command line)
+1. PyGame installed  
 ```
 pip install pygame
 ```
@@ -27,5 +28,5 @@ pip install Pillow --upgrade
 8. 1 - to increase the size of the brush 
 9. 2 - to decrease the size of the brush
 10. s - to save the painting in the same directory with a name (user input)
-11. ⬅️ ⬆️ ⬇️ ➡️ -- Arrow keys for movement
+11. ⬅️ ⬆️ ⬇️ ➡️ - Arrow keys for movement
 
