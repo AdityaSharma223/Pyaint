@@ -27,4 +27,5 @@ pip install Pillow --upgrade
 8. 1 - to increase the size of the brush 
 9. 2 - to decrease the size of the brush
 10. s - to save the painting in the same directory with a name (user input)
+11. ⬅️ ⬆️ ⬇️ ➡️ -- Arrow keys for movement
 
