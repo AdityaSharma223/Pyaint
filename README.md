@@ -10,6 +10,11 @@ pip install pygame
 ```
 pip install pyautogui
 ```
+### Note: 
+If you encounter an error related to the Pillow module try:
+```
+pip install Pillow --upgrade
+```
 
 ## Controls: 
 1. r - change color to red 
