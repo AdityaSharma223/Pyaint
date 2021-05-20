@@ -1,7 +1,7 @@
 # PaintClone
 A very low level Microsoft Paint clone made with PyGame  
 
-##Requirements: 
+## Requirements: 
 1. PyGame installed 
 ```
 pip install pygame
@@ -11,7 +11,7 @@ pip install pygame
 pip install pyautogui
 ```
 
-##Controls: 
+## Controls: 
 1. r - change color to red 
 2. g - change color to green
 3. b - change color to blue
