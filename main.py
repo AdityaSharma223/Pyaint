@@ -13,7 +13,7 @@ color = (255, 0, 0)
 #---------------------------------
 print(''' 
 
-Hi and welcome to a PYAINT, a very low level 
+Hi and welcome to PYAINT, a very low level 
 copy of Microsoft Paint. 
 You can create paintings and save them. 
 these are the commands:- 
